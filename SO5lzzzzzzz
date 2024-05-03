@@ -1,0 +1,6 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("So5lz's Menu", "GrapeTheme")
+
+-- MAIN
+local So5lzLock = Window:NewTab("Scammed add spotifyso5lz")
+local So5lzSection = So5lzLock:NewSection("Scammed add spotifyso5lz")
